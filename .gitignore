@@ -1,0 +1,4 @@
+# git add .gitignore and git commit
+.next
+# git add and git commit --amend
+node_modules
